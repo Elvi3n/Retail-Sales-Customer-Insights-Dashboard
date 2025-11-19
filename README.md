@@ -1,4 +1,4 @@
-# Tableau-Sales-Performance-Dashboard
+# Retail-Sales-Customer-Insights-Dashboard
 This user story outlines the specification for building two dashboards using Tableau to help stakeholders, including sales managers and executives, analyze sales performance and customers.
 
 **Link to Tableau Public:**
@@ -42,7 +42,7 @@ The dashboard aims to provide an overview of sales metrics and trends in order t
 
 # Repository Structure
 ```
-Tableau-Sales-Performance-Dashboard/
+Retail-Sales-Customer-Insights-Dashboard/
 ├── datasets/              
 ├── Sales & Customer Dashboards             
 ├── LICENSE
